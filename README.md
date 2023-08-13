@@ -10,7 +10,7 @@
 ## PROCESO:
 
 - Estructura HTML:
-    * Se ha creado una estructura HTML básica con las etiquetas <html>, <head>, y <body>.
+    * Se ha creado una estructura HTML básica con las etiquetas `<html>`, `<head>`, y `<body>`.
     * Se ha incluido metadatos para la codificación de caracteres y la vista en dispositivos móviles.
     * Se ha definido un título para la página y vinculado hojas de estilo CSS externas.
 
@@ -18,9 +18,9 @@
     * Se ha enlazado la biblioteca Font Awesome para usar iconos de redes sociales en la página.
 
 - Sección de Encabezado:
-    * Se ha creado una sección <section> que contiene un contenedor <div> para el contenido de la página.
-    * Se ha incluido un título principal <h1> en mayúsculas con un efecto visual utilizando CSS.
-    * Se ha añadido un elemento <div> para contener las tarjetas de perfil de los lenguajes de programación.
+    * Se ha creado una sección `<section>` que contiene un contenedor `<div>` para el contenido de la página.
+    * Se ha incluido un título principal `<h1>` en mayúsculas con un efecto visual utilizando CSS.
+    * Se ha añadido un elemento `<div>` para contener las tarjetas de perfil de los lenguajes de programación.
 
 - Tarjetas de Perfil:
     * Se ha creado cuatro tarjetas de perfil utilizando la clase .card.
@@ -32,9 +32,9 @@
     * Se utilizo la propiedad @media para definir estilos específicos para pantallas con un ancho mínimo de 700px.
     * Se aplico animaciones de desvanecimiento en las tarjetas al cargar la página en pantallas más grandes.
 
-Estilos CSS:
+- Estilos CSS:
     * Se ha definido reglas de estilo en CSS para dar formato a la página y las tarjetas.
-    * Se ha utilizado propiedades como margin, padding, color, font-size, background-color, y más para personalizar la apariencia de la página.
+    * Se ha utilizado propiedades como `margin`, `padding`, `color`, `font-size`, `background-color`, y más para personalizar la apariencia de la página.
     * Se ha creado reglas para estilizar elementos como los botones, enlaces y redes sociales.
 
 
