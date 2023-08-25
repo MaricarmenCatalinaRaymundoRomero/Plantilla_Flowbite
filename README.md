@@ -3,7 +3,8 @@
 
 - Este es la plantilla que utilice  (https://flowbite.com/blocks/):
   
-![image](https://github.com/MaricarmenCatalinaRaymundoRomero/Proyecto001/assets/129924045/1e96a68d-d492-4365-a1d2-88b967008531)
+![image](https://github.com/MaricarmenCatalinaRaymundoRomero/ProyectoAgosto01_DigitalBuho/assets/129924045/5f365ede-653b-4c88-944b-48ace6d02fe1)
+
 
 
 
@@ -40,4 +41,6 @@
 
 ## RESULTADO:
 
-![image](https://github.com/MaricarmenCatalinaRaymundoRomero/Proyecto001/assets/129924045/f6aa3f46-0999-4646-93dd-a76ffb097f32)
+![image](https://github.com/MaricarmenCatalinaRaymundoRomero/ProyectoAgosto01_DigitalBuho/assets/129924045/9a434149-0339-4ba8-ab26-1929c6664327)
+
+
